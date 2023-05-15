@@ -6,6 +6,8 @@ Refer this directory for all the materials
 
 3.takeUforward - https://www.youtube.com/@takeUforward/featured (Recursion,Dynamic Programming, Graph Playlist)
 
+4.Educative.io(coding pattern) - https://www.educative.io/courses/grokking-coding-interview-patterns-java
+
 
 __-: LeetCode Solutions Explanation :-__
 
