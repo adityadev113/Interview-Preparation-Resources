@@ -11,3 +11,5 @@ ByteByteGo - https://www.youtube.com/c/ByteByteGo (Subscribe to weekly newslette
 NeetCode - https://www.youtube.com/@NeetCode/featured
 
 Asli Engineering by Arpit Bhayani - https://www.youtube.com/@AsliEngineering/featured (System Design and Microservice { must watch})
+
+{please add more if you find any resource}
