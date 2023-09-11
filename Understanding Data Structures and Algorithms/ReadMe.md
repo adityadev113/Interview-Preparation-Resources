@@ -1,12 +1,14 @@
 Refer this directory for all the materials
 
-1.Geeks for Geeks
+1.Cracking the Coding Interview Book
 
-2.Lead Coding by FRAZ - https://www.youtube.com/@LeadCodingbyFRAZ/featured (Recursion Playlist)
+2.Geeks for Geeks
 
-3.takeUforward - https://www.youtube.com/@takeUforward/featured (Recursion,Dynamic Programming, Graph Playlist)
+3.Lead Coding by FRAZ - https://www.youtube.com/@LeadCodingbyFRAZ/featured (Recursion Playlist)
 
-4.Educative.io(coding pattern) - https://www.educative.io/courses/grokking-coding-interview-patterns-java
+4.takeUforward - https://www.youtube.com/@takeUforward/featured (Recursion,Dynamic Programming, Graph Playlist)
+
+5.Educative.io(coding pattern) - https://www.educative.io/courses/grokking-coding-interview-patterns-java
 
 -: LeetCode Solutions Explanation :-
 
